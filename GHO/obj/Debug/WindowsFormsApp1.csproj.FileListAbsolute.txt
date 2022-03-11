@@ -1,0 +1,10 @@
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GHO.Form1.resources
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GHO.Properties.Resources.resources
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GHO.exe.config
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GHO.exe
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GHO.pdb
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GHO.exe
+D:\proiecte\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GHO.pdb
